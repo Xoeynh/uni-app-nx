@@ -9,5 +9,5 @@ export default defineConfig({
     eslintPlugin({
       include: ['src/**/*.vue', 'src/**/*.js', 'src/**/*.ts'],
     })
-  ],
+  ]
 });
