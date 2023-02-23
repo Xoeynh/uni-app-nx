@@ -4,9 +4,9 @@
 
 ## 简介
 
-一套仿奈雪の茶小程序的小程序模板。
+本项目仿写 ``tinypuppet`` 的[奈雪の茶](https://github.com/tinypuppet/nxdc-milktea)小程序模板项目
 
-本项目仿写 ``tinypuppet`` 的奈雪の茶项目，原项目地址: [https://github.com/tinypuppet/nxdc-milktea](https://github.com/tinypuppet/nxdc-milktea)。
+项目使用vue3重构, vue2版本可查看[nx-uni-app-2分支](https://github.com/xlz122/uni-app-nx/tree/nx-uni-app-2)
 
 ## 项目使用技术栈
 
